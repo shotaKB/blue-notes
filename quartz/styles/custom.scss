@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* MAHJONG TILE FIXES */
+
+/* We might need to get more specific later if svgs are used for things other than mahjong tiles */
+img[src$=".svg"] {
+  /* Force white tile background */
+  background-color: white; 
+  border-radius: 4px;  /* Optional: Adds nice rounded corners like real tiles */
+  padding: 0px;        /* Ensures no weird gaps */
+  
+  /* Fix the "Floating" (Align with text) */
+  vertical-align: -0.25em; /* This pushes the image down 20% of the font height */
+  margin: 0 2px;       /* Adds breathing room on left/right */
+}

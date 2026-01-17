@@ -1,8 +1,11 @@
 ---
-title: Mahjong Resources
+title: Mahjong Notes
 tags:
   - mahjong
+order: "1"
 ---
+I love playing Japanese mahjong and this is my attempt to put together a series of English learning material about this game. I feel that writing down my discoveries is one of the best ways to internalize new material. I'm not a mahjong master by any means so think of this like a community space where we can learn together.
+
 A list of strategy books I read to study mahjong
 * **Uzaku, G.** (2019). *ウザク式 麻雀学習 牌効率* [The Uzaku Mahjong Guidebook: Tile Efficiency]. Sansai Books.
 * **Uzaku, G.** (2024). *ウザク式麻雀学習　何切る 金（ゴールド）* [The Uzaku Mahjong Guidebook: Nani Kiru Gold]. Sansai Books.
