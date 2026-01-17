@@ -11,7 +11,7 @@ A list of strategy books I read to study mahjong
 * **Uzaku, G.** (2024). *ウザク式麻雀学習　何切る 金（ゴールド）* [The Uzaku Mahjong Guidebook: Nani Kiru Gold]. Sansai Books.
 * **Fukuchi, M.** (2021). *令和版 現代麻雀 押し引きの教科書* [Push/Fold Judgement in Modern Mahjong, Reiwa Version]. Tetsujin-sha.
 * **Senba, K.** (2023). *千羽黒乃の強くなる麻雀* [Senba Kurono's Guide to Advanced Mahjong]. KADOKAWA.
-* **Totsugeki Tohoku** (2021). *新 科学する麻雀* [The New Mahjong Science]. Hobby Japan.
+* **Totsugeki Tohoku** (2021). *新 科学する麻雀* [The New Science of Mahjong]. Hobby Japan.
 
 Gameplay screenshots are from [Mahjong Soul](https://mahjongsoul.yo-star.com/) (Yostar).
 
