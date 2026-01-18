@@ -12,7 +12,7 @@ draft: false
 >**Discard:** ![[Man7.svg|30]] dama
 >
 >**My Thoughts:**
->This is a nice practice on South 4 tactics. Riichi would put me at a temporary 4th so dama is the better decision. Also worth noting that even if I riichi and tsumo a mangan it still wouldn't push me to 2nd, so it's high risk no return.
+>This is a nice practice on [[Late Game Strategies|South 4 tactics.]] Riichi would put me at a temporary 4th so dama is the better decision. Also worth noting that even if I riichi and tsumo a mangan it still wouldn't push me to 2nd, so it's high risk no return.
 >
 >**Maka's Desicion:**
 >![[nk002_maka.png]]
