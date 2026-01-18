@@ -1,10 +1,10 @@
 ---
 title: Nani Kiru 002
-date: 2026-01-17
+date: 2026-01-18
 tags:
   - mahjong
   - nani-kiru
-draft: true
+draft: false
 ---
 ![[nk002_board.png]]
 
@@ -16,5 +16,6 @@ draft: true
 >
 >**Maka's Desicion:**
 >![[nk002_maka.png]]
+>Riichi 14 vs Dama 77
 
 
