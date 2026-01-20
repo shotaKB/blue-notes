@@ -4,7 +4,7 @@ tags:
   - mahjong
 order: "1"
 ---
-I love playing Japanese mahjong and this is my attempt to put together a series of English learning materials about this game. I feel that writing down my discoveries is one of the best ways to internalize new material. I'm not a mahjong master by any means so think of this like a library where we can learn together.
+I love playing Japanese mahjong and this is my attempt at putting together a series of English learning materials about this game. I feel that writing down my discoveries is one of the best ways to internalize new material. I'm not a mahjong master by any means so think of this like a library where we can learn together.
 
 A list of strategy books I read to study mahjong
 * **Fukuchi, M.** (2021). *令和版 現代麻雀 押し引きの教科書* [Push/Fold Judgement in Modern Mahjong, Reiwa Version]. Tetsujin-sha.

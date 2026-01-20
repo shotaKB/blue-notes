@@ -11,7 +11,7 @@ tags:
 >**Discard:** ![[Pin8.svg|30]]
 >
 >**My Thoughts:**
->There's not a very good chance of winning this hand with only two more turns left, so ![[Pin8.svg|20]] is both safe and keeps me in 1 shanten. ![[Nan.svg|20]] is not a very dangerous tile either, but shimo could still be waiting on it and kami pushing that dora is also suspicious.
+>There's not a very good chance of winning this hand with only [[Turn-Count Equity|two more turns left]], so ![[Pin8.svg|20]] is both safe and keeps me in 1 shanten. ![[Nan.svg|20]] is not a very dangerous tile either, but shimo could still be waiting on a shanpon and kami pushing that dora is also suspicious.
 >
 >**Maka's Desicion:**
 >![[nk001_maka.png]]
