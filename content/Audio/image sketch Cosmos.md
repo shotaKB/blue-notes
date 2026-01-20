@@ -3,6 +3,7 @@ title: image sketch Cosmos
 date: 01/20/2026
 tags:
   - music
+draft: true
 ---
 <iframe 
 src="Audio/Assets/audio_galaxy.html" 

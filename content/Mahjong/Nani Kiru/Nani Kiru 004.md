@@ -1,7 +1,7 @@
 ---
 title: Nani Kiru 004
 date: 2026-01-20
-draft: true
+draft: false
 tags:
   - mahjong
   - nani-kiru
