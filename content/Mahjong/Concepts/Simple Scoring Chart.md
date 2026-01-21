@@ -2,7 +2,8 @@
 title: (Slightly) Simple Scoring Chart
 date: 2026-01-18
 tags:
-  - mahjong
+  - theory
+  - released
 ---
 I tried to simplify the mahjong scoring system as much as possible here. Just base everything off of your hand and the number of hans. I still don't understand hu but I get by without them.
 

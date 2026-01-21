@@ -1,9 +1,8 @@
 ---
 title: Nani Kiru 005
 date: 2026-01-21
-draft: true
+draft: false
 tags:
-  - mahjong
   - nani-kiru
 ---
 ![[nk005_board.png]]

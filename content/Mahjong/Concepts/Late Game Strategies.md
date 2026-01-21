@@ -3,7 +3,8 @@ title: Late Game Strategies
 date: 2026-01-18
 draft: false
 tags:
-  - mahjong
+  - theory
+  - something-forming
 ---
 As you approach the South 3/4 rounds the stakes get higher and you might have to go for choices that may not make sense in earlier rounds. If you are winning, the goal is to obstruct the dealer and keep the rounds flowing. If you are in last place then being conscious of the point difference between you and third place is crucial.
 

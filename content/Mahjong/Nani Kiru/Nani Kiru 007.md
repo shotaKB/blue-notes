@@ -3,7 +3,6 @@ title: Nani Kiru 007
 date: 2026-01-23
 draft: true
 tags:
-  - mahjong
   - nani-kiru
 ---
 ![[nk007_board.png]]

@@ -3,7 +3,6 @@ title: Nani Kiru 004
 date: 2026-01-20
 draft: false
 tags:
-  - mahjong
   - nani-kiru
 ---
 ![[nk004_board.png]]

@@ -2,7 +2,6 @@
 title: Nani Kiru 001
 date: 2026-01-17
 tags:
-  - mahjong
   - nani-kiru
 ---
 ![[nk001_board.png]]
