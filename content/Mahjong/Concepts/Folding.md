@@ -1,7 +1,7 @@
 ---
 title: Folding (Betaori)
-date:
-draft: true
+date: 2026-01-21
+draft: false
 tags:
   - theory
   - something-forming
@@ -22,7 +22,8 @@ Folding means discarding the **safest tile** every turn. First you have to decid
 |      |    First Honor    |          Shanpon, Tanki          |                Danger increases over time                 |
 |  D   |     Suji 2, 8     |     Kanchan, Shanpon, Tanki      |                                                           |
 |      |     Suji 3, 7     | Kanchan, Penchan, Shanpon, Tanki | Penchan makes them slightly more dangerous than suji 2, 8 |
-|      |                   |                                  |                                                           |
-|      |                   |                                  |                                                           |
-|      |                   |                                  |                                                           |
-|      |                   |                                  |                                                           |
+|  E   |   Non Suji 1,9    |     Ryanmen, Shanpon, Tanki      |                                                           |
+|      | Half Suji 4, 5, 6 | Ryanmen, Kanchan, Shanpon, Tanki |         Less chance of a kanchan on middle tiles          |
+|      |   Non Suji 2, 8   | Ryanmen, Kanchan, Shanpon, Tanki |                                                           |
+|      |   Non Suji 3, 7   |            Everything            |                                                           |
+|  F   | Non Suji 4, 5, 6  |            Everything            |        Two possible ryanmens so double the danger         |
