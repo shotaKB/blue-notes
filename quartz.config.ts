@@ -29,14 +29,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b", 
-          secondary: "#284b63",
-          tertiary: "#84a59d", 
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eef5f8",      // Background: Very pale "Glacial Ice" blue (instead of white)
+          lightgray: "#dcebf0",  // Borders: Soft "Seafoam" (blends nicely)
+          gray: "#8faab9",       // Metadata: Muted slate blue
+          darkgray: "#2e4c5e",   // Body Text: Dark "Stormy Sea" blue (High contrast, readable)
+          dark: "#1a3c4f",       // Headers: Deepest Navy (Almost black, but definitely blue)
+          secondary: "#2c7a96",  // Links: "Lagoon" Teal
+          tertiary: "#e07a5f",   // Hover/Accents: "Coral" Orange (Great contrast against the blue)
+          highlight: "rgba(44, 122, 150, 0.15)", // Highlight background
           textHighlight: "#fff23688",
         },
         darkMode: {
