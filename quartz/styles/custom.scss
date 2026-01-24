@@ -6,8 +6,7 @@
 /* We might need to get more specific later if svgs are used for things other than mahjong tiles */
 img[src$=".svg"] {
   /* Force white tile background */
-  background-color: white; 
-  border-radius: 4px;  /* Optional: Adds nice rounded corners like real tiles */
+  background-color: white;
   padding: 0px;        /* Ensures no weird gaps */
   
   /* Fix the "Floating" (Align with text) */

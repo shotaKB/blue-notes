@@ -12,8 +12,8 @@ tags:
   - finished
 ---
 # Global music streaming data reveal diurnal and seasonal patterns of affective preference
-**Authors:** Minsu Park, Jennifer Thom, Sarah Mennicken, Henriette Cramer, Michael Macy
-**Year:** 2019
+**Authors:** Minsu Park, Jennifer Thom, Sarah Mennicken, Henriette Cramer, Michael Macy<br>
+**Year:** 2019<br>
 [Article Link](https://minsu-park.github.io/publications/affective_preference_nhb_2019.pdf)
 
 This group looked through 765M online music streams and analyzed metrics from the Spotify API to study listening trends. The API endpoint is deprecated now, but they are: acousticness, danceability, duration, energy, instrumentalness, liveness, loudness, mode, speechiness, tempo and valence. These were then turned into one score, Music Intensity.

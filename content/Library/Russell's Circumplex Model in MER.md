@@ -10,8 +10,8 @@ tags:
   - finished
 ---
 # # Novel Audio Features for Music Emotion Recognition
-**Authors**: Renato Panda, Ricardo Malheiro, Rui Pedro Paiva
-**Year:** 2018
+**Authors**: Renato Panda, Ricardo Malheiro, Rui Pedro Paiva<br>
+**Year:** 2018<br>
 [Article Link]([https://minsu-park.github.io/publications/affective_preference_nhb_2019.pdf](https://ieeexplore.ieee.org/document/8327886))
 
 This research analyzed music and placed them in four quadrants representing Valence (pleasant vs unpleasant) and Arousal (Energetic vs not Energetic). Tone color, or timbre, seems to be an important factor in distinguishing music from every quarter. Timbre allows listeners to distinguish between different sources of sound (i.e. a bass vs piano playing the same note) and can be broken down into a few distinct parameters; MFCCs (source of the sound), Spectral Flatness (noise-y-ness), Roughness (possibly dissonance), and Rolloff (amount of high-frequency energy).
