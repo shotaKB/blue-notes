@@ -1,7 +1,7 @@
 ---
 title: Nani Kiru 006
-date: 2026-01-22
-draft: true
+date: 2026-01-24
+draft: false
 tags:
   - nani-kiru
 ---

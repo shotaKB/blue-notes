@@ -27,3 +27,8 @@ Folding means discarding the **safest tile** every turn. First you have to decid
 |      |   Non Suji 2, 8   | Ryanmen, Kanchan, Shanpon, Tanki |                                                           |
 |      |   Non Suji 3, 7   |            Everything            |                                                           |
 |  F   | Non Suji 4, 5, 6  |            Everything            |        Two possible ryanmens so double the danger         |
+^ This chart is adapted from *Modern Mahjong Techniques, Reiwa Version* by Nemata
+
+## Notes
+This list is strictly ordered based on safety, so a second honor is safer than a first honor, even though they are both in C tier. Speaking of first honors, it's interesting that this one becomes more dangerous as the round progresses. It might be your only option against an early riichi, but later in the round a number tile may become safer with more known sujis.
+The note on "Suji 1, 9" actually doesn't make sense to me. Like do people just tend to prefer honor shanpons over 1 or 9? If the difference is significant enough, can we gain an advantage by actively creating a 1/9 shanpon?

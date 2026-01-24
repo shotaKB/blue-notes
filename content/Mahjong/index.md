@@ -8,6 +8,7 @@ I love playing Japanese mahjong and this is my attempt at putting together a ser
 
 A list of strategy books I read to study mahjong
 * **Fukuchi, M.** (2021). *令和版 現代麻雀 押し引きの教科書* [Push/Fold Judgement in Modern Mahjong, Reiwa Version]. Tetsujin-sha.
+* Nemata (2023). *令和版 現代麻雀技術論* [Modern Mahjong Techniques, Reiwa Version]. Tetsujin-sha.
 * **Senba, K.** (2023). *千羽黒乃の強くなる麻雀* [Senba Kurono's Guide to Advanced Mahjong]. KADOKAWA.
 * **Totsugeki Tohoku** (2021). *新 科学する麻雀* [The New Science of Mahjong]. Hobby Japan.
 * **Uzaku, G.** (2019). *ウザク式 麻雀学習 牌効率* [The Uzaku Method Mahjong Studies: Tile Efficiency]. Sansai Books.
