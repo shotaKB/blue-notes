@@ -29,14 +29,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#eef5f8",      // Background: Very pale "Glacial Ice" blue (instead of white)
-          lightgray: "#dcebf0",  // Borders: Soft "Seafoam" (blends nicely)
-          gray: "#8faab9",       // Metadata: Muted slate blue
-          darkgray: "#2e4c5e",   // Body Text: Dark "Stormy Sea" blue (High contrast, readable)
-          dark: "#1a3c4f",       // Headers: Deepest Navy (Almost black, but definitely blue)
-          secondary: "#2c7a96",  // Links: "Lagoon" Teal
-          tertiary: "#e07a5f",   // Hover/Accents: "Coral" Orange (Great contrast against the blue)
-          highlight: "rgba(44, 122, 150, 0.15)", // Highlight background
+          light: "#e2eff5",      // Background: "Shallow Water" (A distinct, cool pale blue)
+          lightgray: "#cfe2eb",  // Borders/Sidebar: "Seafoam" (Visible separation, very blue)
+          gray: "#7a9eb3",       // Metadata: "Overcast Sky" (Muted blue-gray)
+          darkgray: "#274152",   // Body Text: "Deep Ocean" (Dark enough to read, blue enough to feel)
+          dark: "#152f40",       // Headers: "Midnight Zone" (Almost black, but rich navy)
+          secondary: "#1f8cad",  // Links: "Tropical Lagoon" (Bright, saturated cyan-blue)
+          tertiary: "#e07a5f",   // Hover/Accents: "Coral" (Kept the coral for contrast, it pops perfectly on blue)
+          highlight: "rgba(31, 140, 173, 0.15)", // Highlight: Subtle blue tint
           textHighlight: "#fff23688",
         },
         darkMode: {

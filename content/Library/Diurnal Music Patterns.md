@@ -11,7 +11,7 @@ tags:
   - "#academic"
   - finished
 ---
-# Global music streaming data reveal diurnal and seasonal patterns of affective preference
+*Global music streaming data reveal diurnal and seasonal patterns of affective preference*<br>
 **Authors:** Minsu Park, Jennifer Thom, Sarah Mennicken, Henriette Cramer, Michael Macy<br>
 **Year:** 2019<br>
 [Article Link](https://minsu-park.github.io/publications/affective_preference_nhb_2019.pdf)

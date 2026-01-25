@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Bandcamp": "https://smallbluewhale.bandcamp.com/",
+      "YouTube": "https://www.youtube.com/@smallBlueWhale",
       "Twitter": "https://x.com/smalllBlueWhale",
     },
   }),
@@ -34,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
+        { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
     }),

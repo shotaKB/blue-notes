@@ -9,7 +9,7 @@ tags:
   - "#academic"
   - finished
 ---
-# # Novel Audio Features for Music Emotion Recognition
+*Novel Audio Features for Music Emotion Recognition*<br>
 **Authors**: Renato Panda, Ricardo Malheiro, Rui Pedro Paiva<br>
 **Year:** 2018<br>
 [Article Link]([https://minsu-park.github.io/publications/affective_preference_nhb_2019.pdf](https://ieeexplore.ieee.org/document/8327886))
