@@ -7,6 +7,7 @@ tags:
   - something-forming
 aliases:
   - betaori
+  - fold
 ---
 Folding means discarding the **safest tile** every turn. First you have to decide whether to push or fold. If you decide to fold, then forget about your own hand and choose the discards on safety and safety only.
 
