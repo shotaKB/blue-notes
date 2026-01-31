@@ -1,7 +1,7 @@
 ---
 title: Nani Kiru 010
-date: 2026-01-25
-draft: true
+date: 2026-01-31
+draft: false
 tags:
   - nani-kiru
 ---
@@ -15,5 +15,4 @@ tags:
 >**Maka's Decision:**
 >![[nk010_maka.png]]
 >Dropping the penchan is a solid option, but even then I should discard the ![[Sou9.svg|20]] first. Not sure why. Drawing ![[Sou7.svg|20]] will at least result in a ryanmen furiten.
-
 
