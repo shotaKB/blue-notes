@@ -10,7 +10,7 @@ tags:
 >[!SUCCESS]- Reveal Answer
 >**Discard:** ![[Pin3.svg|30]] dama
 >
->**My Thoughts:** Pinfu dora2 seems like a no brainer riichi. What put the breaks for me here is that there are only 3 win tiles left and the round is nearly over. These two combined will most likely result in a wasted 1000 points if I went for the riichi.
+>**My Thoughts:** Pinfu dora2 seems like a no brainer riichi. What put the breaks for me here is that there are only 3 win tiles left and the round is [[Turn-Count Equity|nearly over]]. These two combined will most likely result in a wasted 1000 points if I went for the riichi.
 >
 >**Maka's Decision:**
 >![[nk009_maka.png]]
