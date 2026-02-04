@@ -24,4 +24,8 @@ Think of having four blocks and a head as a baseline for hands with speed. In th
 
 This example demonstrates value. A score of [[Simple Scoring Chart|3900]] is the minimum that justifies calling, even if the rest of the hand is a little messy. I clearly see four blocks in this hand, the pair of  ![[Man5.svg|20]] can potentially be my head, and Chun + dora + aka gives me enough hand value, successfully satisfying conditions 1 and 2.
 ## Calling into Tenpai
+The priority in mahjong is to go for the riichi, but there are times where calling is the right decision if it puts you in tenpai.
 
+![[call_decision_03.png]]
+
+By calling this ![[Man7.svg|20]] I can secure tenpai waiting on ![[Sou8.svg|20]]. Since junchan is a restrictive yaku, I cannot afford to be picky about how I enter tenpai. Furthermore, shimo is most likely collecting souzu so the  ![[Sou8.svg|20]]  is a terrible wait that I would not riichi on—so there is no value in staying Menzen.
