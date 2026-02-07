@@ -5,6 +5,9 @@ draft: true
 tags:
   - theory
 ---
+## Overview
+Five block theory is the "standard" method of hand building in modern mahjong. The goal is to maximize your wait at 1 shanten because going from 1 shanten to tenpai is what takes the most time.
+
 Lets look at an example.
 
 ![[five_block_theory.png]]
