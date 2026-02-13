@@ -1,7 +1,7 @@
 ---
 title: Nani Kiru 015
-date: 2026-02-05
-draft: true
+date: 2026-02-13
+draft: false
 tags:
   - nani-kiru
 ---
