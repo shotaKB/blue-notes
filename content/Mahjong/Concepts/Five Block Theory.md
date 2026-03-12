@@ -1,15 +1,25 @@
 ---
 title: Five Block Theory
-date:
-draft: true
+date: 2026-03-12
+draft: false
 tags:
   - theory
 ---
 ## Overview
-Five block theory is the "standard" method of hand building in modern mahjong. The goal is to maximize your wait at 1 shanten because going from 1 shanten to tenpai is what takes the most time.
+Five block theory is the "standard" method of hand building in modern mahjong. The goal is to maximize your wait at 1 shanten because going from 1 shanten to tenpai takes the most time.
 
-## Five Blocks for Efficiency
+## Keeping Two Heads
 
+![[five_block_theory_004.png]]
+
+Let's break down this hand into blocks:
+![[Man2.svg|30]]![[Man3.svg|30]] + ![[Pin2.svg|30]] ![[Pin3.svg|30]] ![[Pin3.svg|30]]+ ![[Pin6.svg|30]]![[Pin7.svg|30]]  + ![[Sou1.svg|30]]![[Sou2.svg|30]] ![[Sou3.svg|30]] + ![[Sou4.svg|30]] ![[Sou6.svg|30]] + ![[Haku.svg|30]]  ![[Haku.svg|30]]
+I can cut ![[Pin3.svg|20]] to keep all six blocks, but then I will lose my head after I pon the ![[Haku.svg|20]]. So instead I can drop the only non ryanmen, the ![[Sou4.svg|20]] ![[Sou6.svg|20]].
+
+![[five_block_theory_005.png]]
+
+Now I can cut the ![[Pin7.svg|20]] to get a very good 1 shanten where I can chi or pon into tenpai and even have a chance at sanshoku.
+The five block theory is about planning your hand in advance to maximize efficiency.
 ## Five Blocks for Safety
 
 ![[five_block_theory_001.png]]
