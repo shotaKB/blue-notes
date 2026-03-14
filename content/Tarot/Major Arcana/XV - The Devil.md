@@ -1,5 +1,5 @@
 ---
-title: The Devil
+title: XV - The Devil
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Upright

@@ -1,5 +1,5 @@
 ---
-title: The Fool
+title: 0 - The Fool
 draft:
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:

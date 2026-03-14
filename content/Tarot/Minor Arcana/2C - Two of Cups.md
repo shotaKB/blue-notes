@@ -1,5 +1,5 @@
 ---
-title: Two of Cups
+title: 2C - Two of Cups
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Reversed

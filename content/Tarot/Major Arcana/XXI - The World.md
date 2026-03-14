@@ -1,5 +1,5 @@
 ---
-title: The World
+title: XXI - The World
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
 ---

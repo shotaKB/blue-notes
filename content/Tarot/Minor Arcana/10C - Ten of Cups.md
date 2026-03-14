@@ -1,5 +1,5 @@
 ---
-title: Ten of Cups
+title: 10C - Ten of Cups
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
 ---
