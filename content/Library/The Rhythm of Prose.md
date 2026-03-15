@@ -6,7 +6,7 @@ date: 2026-02-19
 draft:
 tags:
   - book
-  - in-progress
+  - finished
 ---
 *いい音がする文章* [The Rhythm of Prose]<br>
 Takahashi Kumiko
