@@ -7,7 +7,7 @@ tags:
   - ideas
 ---
 ## Overview
-![[Man7.svg|30]]![[Man7.svg|30]]![[Man9.svg|30]]![[Man7.svg|30]]
+![[Man7.svg|30]]![[Man7.svg|30]]![[Man9.svg|30]]![[Man7.svg|30]]<br>
 Tobi toitsu is a shape in which you have two pairs of toitsu separated by one number. Most of the time you would want to cut one tile from this shape so you can slim it down to three tiles.
 
 ![[tobi_toitsu_01.png]]

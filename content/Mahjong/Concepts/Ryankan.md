@@ -6,7 +6,7 @@ tags:
   - theory
 ---
 ## Overview
-![[Man2.svg|30]]![[Man4.svg|30]]![[Man6.svg|30]]
+![[Man2.svg|30]]![[Man4.svg|30]]![[Man6.svg|30]]<br>
 Ryankan is a three tile shape that is made up of two kanchans, like the above shape. It's similar to ryanmen in that you have two possible waits to complete the shape. However, it comes with trade-offs. It requires you to dedicate three tile slots instead of two, and if your other blocks complete first, you are forced to wait on a standard kanchan. Let's look at some examples where you would want to keep the ryankan shape, and other examples where it's better to avoid it.
 
 ![[ryankan_01.png]]
