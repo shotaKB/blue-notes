@@ -1,5 +1,5 @@
 ---
-title: 14W - King of Wands
+title: W14 - King of Wands
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Upright

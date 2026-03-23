@@ -1,5 +1,5 @@
 ---
-title: 5P - Five of Pentacles
+title: P5 - Five of Pentacles
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Reversed
