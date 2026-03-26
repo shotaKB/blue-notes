@@ -1,7 +1,7 @@
 ---
 title: Suji Counting
 date: 2026-02-11
-draft: true
+draft: false
 tags:
   - theory
   - something-forming

@@ -1,5 +1,5 @@
 ---
-title: S11 - Page of Swords
+title: S10 - Ten of Swords
 date: <% tp.date.now("YYYY-MM-DD") %>
 tags:
 ---

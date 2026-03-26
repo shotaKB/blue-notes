@@ -1,5 +1,5 @@
 ---
-title: C6 - Six of Cups
+title: C7 - Seven of Cups
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 ## Upright
