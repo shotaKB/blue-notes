@@ -1,7 +1,7 @@
 ---
 title: Nani Kiru 024
 date: 2026-04-18
-draft: true
+draft: false
 tags:
   - nani-kiru
 ---
